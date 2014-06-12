@@ -24,3 +24,13 @@
 [19:40:12] [Server thread/INFO]: moppeynator left the game
 [19:45:54] [Server thread/INFO]: There are 2/10 players online:
 [19:45:54] [Server thread/INFO]: JimJamJar, Blobacus_2
+[19:55:07] [Server thread/INFO]: Blobacus_2 has just earned the achievement [Benchmarking]
+[19:55:58] [Server thread/INFO]: Stopping the server
+[19:55:58] [Server thread/INFO]: Stopping server
+[19:55:58] [Server thread/INFO]: Saving players
+[19:55:58] [Server thread/INFO]: Saving worlds
+[19:55:58] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[19:55:58] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[19:55:58] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[19:55:58] [Server Shutdown Thread/INFO]: Stopping server
+[19:55:58] [Server Shutdown Thread/INFO]: Saving players
